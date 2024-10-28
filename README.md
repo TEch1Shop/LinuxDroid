@@ -117,14 +117,23 @@ Android Device (Stock unmodified device, no root or custom recovery required)
 <br/>
 <img src="https://github.com/AryanVBW/LinuxDroid/releases/download/Sc/Ubantu-Screenrecording-Crop.gif.gif">
 <br/>
-
+<p align="center">
+<img src="https://github.com/AryanVBW/LinuxDroid/releases/download/P1/kaliC.png" height="">
+   <img src="https://github.com/AryanVBW/LinuxDroid/releases/download/P1/downloadC.png" height="">
+   <img src="https://github.com/AryanVBW/LinuxDroid/releases/download/P1/ubantucross.png" height="">
 </p>
- <a href="https://github.com/AryanVBW"><img src="https://github.com/AryanVBW/LinuxDroid/releases/download/62662552/selectiontermux.jpg" alt="Darkside"></a>
+</p>
+ <a href="https://github.com/AryanVBW"><img src="https://github.com/AryanVBW/LinuxDroid/releases/download/62662552/selectiontermuxL.jpg" alt="Darkside" ></a>
  
-  <a href="https://github.com/AryanVBW"><img src="https://github.com/AryanVBW/LinuxDroid/releases/download/62662552/ubantutermux.jpg" alt="Darkside"></a>
-   
+  <a href="https://github.com/AryanVBW"><img src="https://github.com/AryanVBW/LinuxDroid/releases/download/62662552/ubantutermuxL.jpg" alt="Darkside"  ></a>
+
    <a href="https://github.com/AryanVBW"><img src="https://github.com/AryanVBW/LinuxDroid/releases/download/62662552/Termux.jpg" alt="Darkside"></a>
     <a href="https://github.com/AryanVBW"><img src="https://github.com/AryanVBW/LinuxDroid/releases/download/62662552/Kalitermux.jpg" alt="Darkside"></a>
+
+=======
+   <a href="https://github.com/AryanVBW"><img src="https://github.com/AryanVBW/LinuxDroid/releases/download/62662552/TermuxL.jpg" alt="Darkside" ></a>
+    <a href="https://github.com/AryanVBW"><img src="https://github.com/AryanVBW/LinuxDroid/releases/download/62662552/KalitermuxL.jpg" alt="Darkside"></a>
+  
 
 <a href="https://github.com/AryanVBW/kali-Linux-Android"><img src="https://github.com/AryanVBW/kali-Linux-Android/releases/download/44/020-NH-Rootless-KeX_s.png" alt="Darkside"></a>
 For more info https://www.kali.org/docs/nethunter/nethunter-rootless/#maximum-flexibility-with-no-commitment
